@@ -1,6 +1,5 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning C, C++, Python, SQL, HTML, CSS, Javascript
-### 👯 I’m looking to collaborate on any task that would benefit from a beginner's help
 
 <!--
 **BruDevin/BruDevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
