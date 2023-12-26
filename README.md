@@ -1,6 +1,4 @@
 ### Hi there 👋
-### Please, visit my page brudevin.github.io/home
-### I’m currently learning HTML, CSS, Javascript, Bootstrap, React js and more.
 
 <!--
 **BruDevin/BruDevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
